@@ -1,3 +1,4 @@
+#include "Arduino.h"
 #include "Foo.hpp"
 
 const int ledPin = 13;
